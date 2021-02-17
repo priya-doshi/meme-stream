@@ -1,0 +1,68 @@
+.App {
+  /* text-align: center; */
+  background-color: #fafafa;
+  padding: 60px;
+  font-family: "sans-serif";
+}
+.container-form {
+  border: 5px;
+}
+
+.container {
+  max-width: 650px;
+}
+.center {
+  text-align: center;
+  margin-top: 20px;
+}
+.fixed {
+  overflow: hidden;
+  background-color: #fafafa;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.mx {
+  margin: 5px;
+}
+
+.Meme-card {
+  background: #ffffff;
+  border: 1px solid #f2f2f2;
+  border-radius: 3px;
+  width: 100%;
+  max-width: 575px;
+  margin: 40px;
+}
+
+.Meme-card-header {
+  padding: 20px;
+  height: 40px;
+}
+
+.Meme-card-img {
+  border-radius: 2%;
+  width: 450px;
+  height: 250px;
+  vertical-align: middle;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+hr {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  margin-top: 30px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.Meme-card-footer {
+  padding: 20px;
+  height: 40px;
+  margin: 15px;
+}
+.cards {
+  margin-top: 340px;
+}

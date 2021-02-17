@@ -1,0 +1,29 @@
+GET http://localhost:8080/memes
+
+###
+
+GET http://localhost:8080/memes/6027c4b5ea902d5e3d7d0685
+
+
+###
+POST http://localhost:8080/memes
+Content-Type: application/json
+
+{
+    "name": "test  3",
+    "caption": "hello world",
+    "url": "iiii"
+}
+
+###
+
+DELETE http://localhost:8080/memes/6028a5b0cca9132860690e21
+
+
+###
+PATCH http://localhost:8080/memes/6027c2e1ced0c25787217e8f
+Content-Type: application/json
+
+{
+    "MemeCaption" : "meme2"
+}
