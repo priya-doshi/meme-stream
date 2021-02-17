@@ -34,3 +34,11 @@ bash server_run_backend.sh
 bash server_run_frontend.sh
 
 ```
+
+
+## Links : backend-heroku, fro#ntend-netlify
+
+#https://memestreams.herokuapp.com/memes
+
+#https://peaceful-bose-58e3ad.netlify.app/
+
